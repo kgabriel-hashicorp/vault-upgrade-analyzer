@@ -1,0 +1,14 @@
+{
+  "name": "vault-upgrade-analyzer",
+  "displayName": "Vault Upgrade Analyzer",
+  "version": "0.1.0",
+  "description": "Read-only HashiCorp Vault upgrade impact analysis: breaking changes, new behaviour, deprecations, known issues and CVEs between two Vault versions, for a whole span, one engine or plugin, or a cluster described by a vault-tools audit report. Never contacts or changes Vault.",
+  "author": {
+    "name": "kgabriel-hashicorp",
+    "url": "https://github.com/kgabriel-hashicorp"
+  },
+  "homepage": "https://github.com/kgabriel-hashicorp/vault-upgrade-analyzer",
+  "repository": "https://github.com/kgabriel-hashicorp/vault-upgrade-analyzer",
+  "license": "MPL-2.0",
+  "keywords": ["vault", "hashicorp", "upgrade", "changelog", "breaking-changes", "cve", "read-only"]
+}

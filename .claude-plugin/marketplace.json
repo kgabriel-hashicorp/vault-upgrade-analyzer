@@ -1,0 +1,15 @@
+{
+  "name": "vault-upgrade-analyzer",
+  "description": "Read-only HashiCorp Vault upgrade impact analysis. Community project, not an official HashiCorp product.",
+  "owner": {
+    "name": "kgabriel-hashicorp",
+    "url": "https://github.com/kgabriel-hashicorp"
+  },
+  "plugins": [
+    {
+      "name": "vault-upgrade-analyzer",
+      "source": "./",
+      "description": "Read-only Vault upgrade impact analysis between two versions, for one engine or plugin, or for a cluster audit report."
+    }
+  ]
+}
